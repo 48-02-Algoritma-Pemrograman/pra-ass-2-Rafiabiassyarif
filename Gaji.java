@@ -3,7 +3,7 @@
 public class Gaji{
     public static int masaKerja;
 
-    public static int gaji(int masaKerja){
+    public static int Gaji(int masaKerja){
     if (masaKerja<5) {
         return 5000000;
     } else if (masaKerja>=5&&masaKerja<=10) {
