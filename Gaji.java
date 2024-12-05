@@ -41,7 +41,7 @@ public class Gaji{
         System.out.println(Gaji.class.getDeclaredMethods().length);
         System.out.println(Gaji.class.getDeclaredFields().length);
         
-        input.close();
+        input.Close();
     }
     
 }
